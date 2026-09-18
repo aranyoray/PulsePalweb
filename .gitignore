@@ -12,3 +12,15 @@ yarn-debug.log*
 yarn-error.log*
 .vite
 *.tsbuildinfo
+node_modules/
+.next/
+dist/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+__pycache__/
+*.pyc
+.venv/
+venv/
+.history/
+*.log
